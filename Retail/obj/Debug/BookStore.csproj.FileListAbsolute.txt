@@ -1,0 +1,221 @@
+F:\Book Store Management\Retail\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Book Store Management\Retail\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Book Store Management\Retail\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Book Store Management\Retail\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Book Store Management\Retail\bin\Debug\Retail.exe.config
+F:\Book Store Management\Retail\bin\Debug\Retail.exe
+F:\Book Store Management\Retail\bin\Debug\Retail.pdb
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Book Store Management\Retail\bin\Debug\EnvDTE.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.Build.Framework.dll
+F:\Book Store Management\Retail\bin\Debug\stdole.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\Book Store Management\Retail\bin\Debug\EnvDTE80.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\Book Store Management\Retail\bin\Debug\VSLangProj.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\Book Store Management\Retail\bin\Debug\VSLangProj80.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.MSXML.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\Book Store Management\Retail\bin\Debug\VSLangProj2.dll
+F:\Book Store Management\Retail\bin\Debug\MySql.Data.xml
+F:\Book Store Management\Retail\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Book Store Management\Retail\obj\Debug\BookStore.csproj.AssemblyReference.cache
+F:\Book Store Management\Retail\obj\Debug\Retail.exe.config
+F:\Book Store Management\Retail\obj\Debug\Retail.frmHome.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.frmlogin.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.Properties.Resources.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_Billing.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_categories.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_Customers.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_dashboard.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_orders.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_products.resources
+F:\Book Store Management\Retail\obj\Debug\Retail.UC_Sellers.resources
+F:\Book Store Management\Retail\obj\Debug\BookStore.csproj.GenerateResource.cache
+F:\Book Store Management\Retail\obj\Debug\Retail.exe.licenses
+F:\Book Store Management\Retail\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+F:\Book Store Management\Retail\obj\Debug\BookStore.csproj.CopyComplete
+F:\Book Store Management\Retail\obj\Debug\Retail.exe
+F:\Book Store Management\Retail\obj\Debug\Retail.pdb
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Retail.exe.config
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Retail.exe
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Retail.pdb
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\EnvDTE.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\stdole.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\MySql.Data.xml
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\BookStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.frmHome.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.frmlogin.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.Properties.Resources.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_Billing.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_categories.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_Customers.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_dashboard.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_orders.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_products.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.UC_Sellers.resources
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.exe.licenses
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.exe
+C:\Users\mmuhr\OneDrive\Desktop\New folder (2)\Book Store Management\Retail\obj\Debug\Retail.pdb
